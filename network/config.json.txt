@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Boyce, J"
+  },
+  "text": {
+    "more": "2021 SocPsy \"Middle School is Terrible\" results, classified by 2021 SocPsy students from low density schools",
+    "intro": "2021 SocPsy \"Middle School is Terrible\" low density schools",
+    "title": "SocPsy"
+  },
+  "legend": {
+    "edgeLabel": "Connection",
+    "colorLabel": "182534",
+    "nodeLabel": "Issues"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#ffffff",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 30,
+      "minEdgeSize": 5,
+      "minNodeSize": 1,
+      "maxNodeSize": 25
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
